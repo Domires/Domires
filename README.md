@@ -1,6 +1,5 @@
-teste
-![](hello_github.gif)
-teste
+<img src="https://res.cloudinary.com/domires/image/upload/v1596936048/demos/hello_github_gsm4dl.gif" height="28">
+
 <!--
 **Domires/Domires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
